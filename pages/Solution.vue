@@ -2,6 +2,7 @@
   <div>
     <p>初始化</p>
     <p>提交1</p>
+    <p>提交2</p>
   </div>
 </template>
 <script></script>
