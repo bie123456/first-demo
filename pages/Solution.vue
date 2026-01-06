@@ -3,11 +3,7 @@
     <p>初始化</p>
     <p>提交1</p>
     <p>提交2</p>
-    <p>mac添加</p>
-    <p>mac添加2</p>
-    <p>mac添加3</p>
-    <p>mac添加4</p>
-    <p>mac添加5</p>
+    <p>mac添加1</p>
   </div>
 </template>
 <script></script>
