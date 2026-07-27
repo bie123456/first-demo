@@ -8,6 +8,7 @@
     <p>提交2</p>
     <p>提交3</p>
     <p>新的提交1</p>
+    <p>新的提交2</p>
   </div>
 </template>
 <script></script>
